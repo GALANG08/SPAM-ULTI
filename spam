@@ -1,0 +1,9 @@
+# INSTALL
+
+$ pkg install git
+$ pkg install python
+$ pkg install nano
+$ pip install requests
+$ https://github.com/GALANG08/SPAM-ULTI
+$ cd SPAM-ULTI
+$ python SPAM4.py
